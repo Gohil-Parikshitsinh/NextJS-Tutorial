@@ -35,3 +35,8 @@ Tutorial 15 - Nested Layouts
 First the layout gets render and then the page.tsx component gets render
 
 ---
+
+Tutorial 16 - Multiple Root Layouts  
+In Next.js App Router, multiple root layouts let you create different UI structures for different parts of your app (like /admin and /shop). Each folder can have its own layout.tsx, which acts as the "main layout" for all pages inside that folder. This helps keep sections of your app separate and organized.
+
+---
