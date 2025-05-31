@@ -20,3 +20,10 @@ Tutorial 13 - Route Groups
 we are using () for auth because it tell the nextjs to treat this folder as organixatial folder only and exculing it from the url path
 
 ---
+
+Tutorial 14 - Layouts
+Pages are routes-specific UI components
+A layout is UI that is shared between multiple pages in your app
+
+How to create Layouts 
+Default export the React component from a layout.js or layout.tsx file
